@@ -1,0 +1,34 @@
+h1 {
+    font-size: 100px;
+}
+
+.home-image {
+    height:auto;
+    width: 700px;
+}
+
+.about-image {
+    height: 400px;
+    width: auto;
+}
+
+p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1, h2, h3, h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 40px;
+}
