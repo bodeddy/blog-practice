@@ -1,19 +1,28 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    margin: 25px;
+}
+
 h1 {
-    font-size: 100px;
+    font-size: 70px;
 }
 
 .home-image {
     height:auto;
-    width: 700px;
+    width: 600px;
 }
 
 .about-image {
-    height: 400px;
+    height: 300px;
     width: auto;
 }
 
 p, ul, ol {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
@@ -22,13 +31,13 @@ h1, h2, h3, h4 {
 }
 
 h2 {
-    font-size: 60px;
-}
-
-h3 {
     font-size: 50px;
 }
 
-h4 {
+h3 {
     font-size: 40px;
+}
+
+h4 {
+    font-size: 30px;
 }
