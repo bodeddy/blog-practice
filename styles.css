@@ -1,56 +1,15 @@
-html {
-    box-sizing: border-box;
-}
-
 body {
-    text-align: center;
-    margin: 25px;
-}
-
-h1 {
-    font-size: 70px;
-    margin-bottom: 2px;
+    box-sizing: border-box;
 }
 
 .home-image {
     height:auto;
-    width: 600px;
+    width: 400px;
+    border-radius: 20px;
 }
 
 .about-image {
     height: 300px;
     width: auto;
-}
-
-p, ul, ol {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-}
-
-p {
-    padding-left: 300px;
-    padding-right: 300px;
-    text-align: left;
-}
-
-ul, ol {
-    padding-left: 600px;
-    padding-right: 600px;
-}
-
-h1, h2, h3, h4 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-h2 {
-    font-size: 50px;
-    margin-top: 2px;
-}
-
-h3 {
-    font-size: 40px;
-}
-
-h4 {
-    font-size: 30px;
+    border-radius: 20px;
 }
