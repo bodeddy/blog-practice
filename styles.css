@@ -29,6 +29,19 @@ body {
 
 .about-banner {
     display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    margin-bottom: 100px;
+}
+
+.about-heading {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.home-body {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .home-image {
@@ -41,6 +54,7 @@ body {
     height: 300px;
     width: auto;
     border-radius: 20px;
+    margin-left: 500px;
 }
 
 .blog {
