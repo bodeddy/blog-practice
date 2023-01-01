@@ -13,6 +13,18 @@ body {
 
 .home-banner {
     display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+
+.home-heading {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.home-subheading {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .about-banner {
@@ -34,6 +46,21 @@ body {
 .blog {
    display: flex;
    flex-direction: column;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   padding: 20px 100px;
+}
+
+.blog-post-title {
+    font-size: 25px;
+}
+
+.blog-post-date {
+    font-style: italic;
+}
+
+.blog-post-body {
+    padding-top: 25px;
 }
 
 footer {
